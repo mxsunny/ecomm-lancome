@@ -1,8 +1,3 @@
-#Original Source:    https://www.codeswear.com/
-
-
-
-
 
 
 

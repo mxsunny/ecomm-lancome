@@ -42,6 +42,13 @@
 
 ![eCommerce](screenshots/12.png)  
 
+## Order Page-
+
+![eCommerce](screenshots/13.png)
+
+## MyAccount Page-
+
+![eCommerce](screenshots/14.png)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

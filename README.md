@@ -1,4 +1,8 @@
+## This website is powerd by NextJs + React + PayTM integration + MongoDB for storing the data. and for the server side logic, I use NextJs built in SSR
 
+## HomePage-
+
+![eCommerce](screenshots/1.png) 
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

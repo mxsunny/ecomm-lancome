@@ -6,7 +6,41 @@
 
 ![eCommerce](screenshots/2.png) 
 
-![eCommerce](screenshots/3.png)  
+![eCommerce](screenshots/3.png) 
+
+## T-shirts Section-
+
+![eCommerce](screenshots/4.png)
+
+![eCommerce](screenshots/5.png)
+
+## T-shirts Slug Page-
+
+![eCommerce](screenshots/6.png)
+
+## Shopping Cart-
+
+![eCommerce](screenshots/7.png)
+
+## Checkout Page-
+
+![eCommerce](screenshots/8.png)
+
+## Hoodies Section-
+
+![eCommerce](screenshots/9.png)
+
+## Mugs Slug Page-
+
+![eCommerce](screenshots/10.png)
+
+## Sign in Page-
+
+![eCommerce](screenshots/11.png)
+
+## Sign up Page-
+
+![eCommerce](screenshots/12.png)  
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

@@ -1,4 +1,4 @@
-## This website is powerd by NextJs + React + PayTM integration + MongoDB for storing the data. and for the server side logic, I use NextJs built in SSR
+## This website is powerd by NextJs + React + PayTM integration + MongoDB for storing the data. and for the server side logic, I use NextJs built in SSR.
 
 ## HomePage-
 
